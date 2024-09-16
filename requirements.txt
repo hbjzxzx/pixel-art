@@ -1,0 +1,6 @@
+Pillow
+flask-restx
+flask-cors
+flask
+streamlit
+requests
